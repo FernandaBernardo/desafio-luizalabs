@@ -25,6 +25,7 @@ public class IndexController {
 
 	@Path("/")
 	public void index() {
+		CostumerDAO costumerDAO = new CostumerDAO();
 		result.include("variable", "VRaptor!");
 	}
 }
