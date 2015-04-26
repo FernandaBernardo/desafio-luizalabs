@@ -4,6 +4,9 @@ out
 .settings
 .metadata
 /target/
-neostore.*
+neostore*
 lock
 target/
+messages.log
+schema/*
+store_lock
