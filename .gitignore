@@ -3,3 +3,7 @@ out
 .project
 .settings
 .metadata
+/target/
+neostore.*
+lock
+target/
