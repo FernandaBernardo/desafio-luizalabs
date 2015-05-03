@@ -4,9 +4,4 @@ out
 .settings
 .metadata
 /target/
-neostore*
-lock
-target/
-messages.log
-schema/*
-store_lock
+neo4j/
