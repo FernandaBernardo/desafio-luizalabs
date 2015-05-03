@@ -1,4 +1,4 @@
-package br.com.caelum.vraptor.controller;
+package model;
 
 public class Costumer {
 	private Long personId;

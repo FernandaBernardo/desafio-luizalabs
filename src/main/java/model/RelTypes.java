@@ -1,4 +1,4 @@
-package br.com.caelum.vraptor.controller;
+package model;
 
 import org.neo4j.graphdb.RelationshipType;
 
